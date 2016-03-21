@@ -1,2 +1,2 @@
 # hello-world
-trying to 'create new repo' 
+creating new (first) repo
